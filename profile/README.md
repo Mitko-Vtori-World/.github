@@ -3,6 +3,8 @@
 
 ### 🙋‍♀️ A short introduction - our organization is a project creator, if you have big imagination, that's the perfect place!
 ### 🌈 Contribution guidelines - how can the community get involved? 
+
+<br>
 ### <ul><li>Everyone are allowed to share opinion, fork the repos and help, open issues and discussions!</li></ul>
 <br>
 
