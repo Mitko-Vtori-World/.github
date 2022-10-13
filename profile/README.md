@@ -1,5 +1,5 @@
 # Hello there, little and big Software Engineers! 
-<img src="https://user-images.githubusercontent.com/112943652/195553053-885e3a6a-b554-4616-b9d1-84a11257b1d9.png" width="1500" height="1000">
+<img src="https://user-images.githubusercontent.com/112943652/195553053-885e3a6a-b554-4616-b9d1-84a11257b1d9.png" width="1500" height="700">
 <img src="https://user-images.githubusercontent.com/112943652/195550154-38998d53-4cdc-43f0-a0a3-f5b1c7d83652.gif" width="1000px" height="700px">
 
 ### 👷‍♂️ A short introduction - our organization is a project creator, if you have big imagination, that's the perfect place!
